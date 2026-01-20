@@ -57,9 +57,9 @@ module.exports = {
   config: {
     name: "math",
     version: "1.0",
-    author: "Mᴏʜᴀᴍᴍᴀᴅ Aᴋᴀsʜ",
+    author: "MOHAMMAD AKASH",
     role: 0,
-    category: "game",
+    category: "economy",
     shortDescription: "Math Game (Reply Based)"
   },
 
