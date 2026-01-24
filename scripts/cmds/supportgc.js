@@ -19,7 +19,7 @@ module.exports = {
   },
 
   onStart: async function ({ api, event }) {
-    const supportGroupId = "1496599381339519"; // Support group ID
+    const supportGroupId = "9008925429224277"; // Support group ID
     const commandThreadID = event.threadID; // যে গ্রুপ থেকে কমান্ড দেওয়া হয়েছে
     const adminUID = "61572445660138"; // আপনার UID
     const userID = event.senderID;
