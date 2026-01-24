@@ -18,17 +18,17 @@ module.exports = {
   onStart: async function ({ api, event }) {
     const ownerText = 
 `╭─ 👑 Oᴡɴᴇʀ Iɴғᴏ 👑 ─╮
-│ 👤 Nᴀᴍᴇ       : Mᴏʜᴀᴍᴍᴀᴅ Aᴋᴀsʜ
+│ 👤 Nᴀᴍᴇ       : kipe experance
 │ 🧸 Nɪᴄᴋ       : Aᴋᴀsʜ
-│ 🎂 Aɢᴇ        : 18+
+│ 🎂 Aɢᴇ        : 16+
 │ 💘 Rᴇʟᴀᴛɪᴏɴ : Sɪɴɢʟᴇ
 │ 🎓 Pʀᴏғᴇssɪᴏɴ : Sᴛᴜᴅᴇɴᴛ
 │ 📚 Eᴅᴜᴄᴀᴛɪᴏɴ : Iɴᴛᴇʀ 2ɴᴅ Yᴇᴀʀ
-│ 🏡 Lᴏᴄᴀᴛɪᴏɴ : 𝐃𝐡𝐚𝐤𝐚 - 𝐆𝐚𝐳𝐢𝐩𝐮𝐫
+│ 🏡 Lᴏᴄᴀᴛɪᴏɴ : Nakuru - naivasha
 ├─ 🔗 Cᴏɴᴛᴀᴄᴛ ─╮
-│ 📘 Facebook  : fb.com/arakashiam
+│ 📘 Facebook  : https://www.facebook.com/love12ke
 │ 💬 Messenger: m.me/arakashiam
-│ 📞 WhatsApp  : wa.me/01933165880
+│ 📞 WhatsApp  : wa.me/0705904250
 ╰────────────────╯`;
 
     const cacheDir = path.join(__dirname, "cache");
@@ -36,7 +36,7 @@ module.exports = {
 
     if (!fs.existsSync(cacheDir)) fs.mkdirSync(cacheDir);
 
-    const imgLink = "https://i.imgur.com/1G4ZhU7.jpeg";
+    const imgLink = "https://i.imgur.com/R0mjRee.jpeg";
 
     const send = () => {
       api.sendMessage(
