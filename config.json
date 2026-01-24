@@ -12,7 +12,7 @@
 	"antiInbox": false,
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-	"nickNameBot": "𖣘༒ 𝗠𝗜𝗗𝗡𝗜𝗡𝗚𝗛𝗧 𝗠𝗢𝗢𝗡𝗦 ༒🥵🥵💧💧💕💘",
+	"nickNameBot": "𖣘animation",
 	"prefix": "-",
 	"adminOnly": {
 		"enable": false,
@@ -20,6 +20,7 @@
 	},
 	"adminBot": [
 		"61572445660138"
+		"9008925429224277"
 	],
 	"owner": ["61572445660138"],
 	"whiteListMode": {
